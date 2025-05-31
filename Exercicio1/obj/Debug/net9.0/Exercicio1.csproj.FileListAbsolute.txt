@@ -1,0 +1,15 @@
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/Exercicio1/bin/Debug/net9.0/Exercicio1
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/Exercicio1/bin/Debug/net9.0/Exercicio1.deps.json
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/Exercicio1/bin/Debug/net9.0/Exercicio1.runtimeconfig.json
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/Exercicio1/bin/Debug/net9.0/Exercicio1.dll
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/Exercicio1/bin/Debug/net9.0/Exercicio1.pdb
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/Exercicio1/obj/Debug/net9.0/Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/Exercicio1/obj/Debug/net9.0/Exercicio1.AssemblyInfoInputs.cache
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/Exercicio1/obj/Debug/net9.0/Exercicio1.AssemblyInfo.cs
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/Exercicio1/obj/Debug/net9.0/Exercicio1.csproj.CoreCompileInputs.cache
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/Exercicio1/obj/Debug/net9.0/Exercicio1.sourcelink.json
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/Exercicio1/obj/Debug/net9.0/Exercicio1.dll
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/Exercicio1/obj/Debug/net9.0/refint/Exercicio1.dll
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/Exercicio1/obj/Debug/net9.0/Exercicio1.pdb
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/Exercicio1/obj/Debug/net9.0/Exercicio1.genruntimeconfig.cache
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/Exercicio1/obj/Debug/net9.0/ref/Exercicio1.dll
