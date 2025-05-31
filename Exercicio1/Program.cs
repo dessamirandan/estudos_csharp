@@ -44,7 +44,7 @@ namespace ExercicioUm
       Console.WriteLine(quartos);
       Console.WriteLine(preco.ToString("F2", CultureInfo.InvariantCulture)); //Variavel.Duas casas, Padrao
       Console.WriteLine(ultimoNome);
-      Console.Write(idade);
+      Console.Write(idade + " ");
       Console.Write(altura.ToString("F2", CultureInfo.InvariantCulture));
     }
   }
