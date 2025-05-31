@@ -23,7 +23,7 @@ namespace SegundoProjeto
       x = 15;
       z = 2;
       //div = x / z; //precisa fazer o casting (double) e declarar como double
-      div = (double) x / z;
+      div = (double)x / z;
       Console.WriteLine("O resultado da divisão é: " + div);
     }
   }

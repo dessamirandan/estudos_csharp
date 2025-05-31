@@ -1,0 +1,15 @@
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ConsoleApp3/bin/Debug/net9.0/ConsoleApp3
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ConsoleApp3/bin/Debug/net9.0/ConsoleApp3.deps.json
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ConsoleApp3/bin/Debug/net9.0/ConsoleApp3.runtimeconfig.json
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ConsoleApp3/bin/Debug/net9.0/ConsoleApp3.dll
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ConsoleApp3/bin/Debug/net9.0/ConsoleApp3.pdb
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.AssemblyInfoInputs.cache
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.AssemblyInfo.cs
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.sourcelink.json
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.dll
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ConsoleApp3/obj/Debug/net9.0/refint/ConsoleApp3.dll
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.pdb
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.genruntimeconfig.cache
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ConsoleApp3/obj/Debug/net9.0/ref/ConsoleApp3.dll
