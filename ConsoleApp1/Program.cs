@@ -1,4 +1,5 @@
 ﻿using System; //
+using System.Globalization; //Console.WriteLine(x.ToString("F2", CultureInfo.InvariantCulture)); para selecionar casas apos a virgula
 
 namespace PrimeiroProjeto //Nome da aplicão
 {
@@ -6,10 +7,12 @@ namespace PrimeiroProjeto //Nome da aplicão
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello World!");
       string name = "Andressa"; // tipo nome = valor;
       char sexo = 'f';
-      Console.WriteLine("Hello " + name + ", sexo " + sexo); //Exibe um texto + variável
+      double altura = 1.71433;
+      int idade = 28;
+      Console.WriteLine("Olá, " + name + ". Você possui " + idade + " anos, de sexo " + sexo + ", e uma altura de " + altura); //Exibe um texto + variável
+      Console.ReadLine();
 
     }
   }

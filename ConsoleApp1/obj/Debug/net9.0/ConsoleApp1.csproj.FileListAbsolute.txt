@@ -12,3 +12,4 @@
 /Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
 /Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
 /Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.sourcelink.json
