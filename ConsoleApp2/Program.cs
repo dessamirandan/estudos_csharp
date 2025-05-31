@@ -17,6 +17,14 @@ namespace SegundoProjeto
       d = 2.8f; //boas práticas de programacão
       total = c + d;
       Console.WriteLine("O resultado da soma é igual a " + total);
+
+      int x, z;
+      double div; // a declaracao da variavel precisa ser condizente ao resultado
+      x = 15;
+      z = 2;
+      //div = x / z; //precisa fazer o casting (double) e declarar como double
+      div = (double) x / z;
+      Console.WriteLine("O resultado da divisão é: " + div);
     }
   }
 }
