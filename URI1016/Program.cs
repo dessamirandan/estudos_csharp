@@ -20,10 +20,8 @@ namespace AtividadeURI
       Saída
 
       Imprima o tempo necessário seguido da mensagem "minutos".*/
-      int X, Y, distancia, tempo;
+      int distancia, tempo;
 
-      X = 60;
-      Y = 90;
       distancia = int.Parse(Console.ReadLine());
 
       tempo = distancia * 2;
