@@ -1,0 +1,15 @@
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ExercicioPratico1/bin/Debug/net9.0/ExercicioPratico1
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ExercicioPratico1/bin/Debug/net9.0/ExercicioPratico1.deps.json
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ExercicioPratico1/bin/Debug/net9.0/ExercicioPratico1.runtimeconfig.json
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ExercicioPratico1/bin/Debug/net9.0/ExercicioPratico1.dll
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ExercicioPratico1/bin/Debug/net9.0/ExercicioPratico1.pdb
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ExercicioPratico1/obj/Debug/net9.0/ExercicioPratico1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ExercicioPratico1/obj/Debug/net9.0/ExercicioPratico1.AssemblyInfoInputs.cache
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ExercicioPratico1/obj/Debug/net9.0/ExercicioPratico1.AssemblyInfo.cs
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ExercicioPratico1/obj/Debug/net9.0/ExercicioPratico1.csproj.CoreCompileInputs.cache
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ExercicioPratico1/obj/Debug/net9.0/ExercicioPratico1.sourcelink.json
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ExercicioPratico1/obj/Debug/net9.0/ExercicioPratico1.dll
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ExercicioPratico1/obj/Debug/net9.0/refint/ExercicioPratico1.dll
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ExercicioPratico1/obj/Debug/net9.0/ExercicioPratico1.pdb
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ExercicioPratico1/obj/Debug/net9.0/ExercicioPratico1.genruntimeconfig.cache
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/ExercicioPratico1/obj/Debug/net9.0/ref/ExercicioPratico1.dll
