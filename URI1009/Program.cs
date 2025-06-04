@@ -17,7 +17,7 @@ namespace URI1009
 
       Imprima o total que o funcionário deverá receber, conforme exemplo fornecido.*/
 
-      string nome = Console.ReadLine(); //?ignora valores null
+      string nome = Console.ReadLine(); 
       double salarioFixo = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
       double totalVendas = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
       double salarioTotal = totalVendas * 0.15 + salarioFixo;
