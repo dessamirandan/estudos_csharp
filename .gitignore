@@ -32,3 +32,12 @@ ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.AssemblyInfoInputs.cache
 ExercicioPratico1/obj/Debug/net9.0/ExercicioPratico1.AssemblyInfoInputs.cache
 ExercicioPratico1/obj/Debug/net9.0/ExercicioPratico1.AssemblyInfo.cs
 Exercicio1/obj/Debug/net9.0/Exercicio1.AssemblyInfoInputs.cache
+estudos_csharp.sln
+/ConsoleApp1/obj
+/ConsoleApp3/obj
+/ConsoleApp3/obj
+*.sln
+/Exercicio1/obj
+/Exercicio1/obj
+/ExercicioPratico1/obj
+/ExercicioPratico1/obj
