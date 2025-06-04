@@ -6,7 +6,7 @@
 # This workflow will build, test, sign and package a WPF or Windows Forms desktop application
 # built on .NET Core.
 # To learn how to migrate your existing application to .NET Core,
-# refer to https://docs.microsoft.com/en-us/dotnet/desktop-wpf/migration/convert-project-from-net-framework
+# refer to https://docs.microsoft.com/en-us/dotnet/desktop/wpf/migration/convert-project-from-net-framework
 #
 # To configure this workflow:
 #
@@ -57,9 +57,9 @@ jobs:
 
     env:
       Solution_Name: estudos_csharp.sln                         # Replace with your solution name, i.e. MyWpfApp.sln.
-      Test_Project_Path: your-test-project-path                 # Replace with the path to your test project, i.e. MyWpfApp.Tests\MyWpfApp.Tests.csproj.
-      Wap_Project_Directory: your-wap-project-directory-name    # Replace with the Wap project directory relative to the solution, i.e. MyWpfApp.Package.
-      Wap_Project_Path: your-wap-project-path                   # Replace with the path to your Wap project, i.e. MyWpf.App.Package\MyWpfApp.Package.wapproj.
+      Test_Project_Path: estudos_csharp.Tests/estudos_csharp.Tests.csproj  # Path to your test project
+      Wap_Project_Directory: estudos_csharp.Package              # Wap project directory relative to solution
+      Wap_Project_Path: estudos_csharp.Package/estudos_csharp.Package.wapproj  # Path to Wap project
 
     steps:
     - name: Checkout
@@ -73,17 +73,25 @@ jobs:
       with:
         dotnet-version: 8.0.x
 
-    # Add  MSBuild to the PATH: https://github.com/microsoft/setup-msbuild
+    # Add MSBuild to the PATH: https://github.com/microsoft/setup-msbuild
     - name: Setup MSBuild.exe
       uses: microsoft/setup-msbuild@v2
 
-    # Execute all unit tests in the solution
-    - name: Execute unit tests
-      run: dotnet test
+    # Restore all projects in the solution
+    - name: Restore solution
+      run: msbuild $env:Solution_Name /t:Restore /p:Configuration=$env:Configuration
+      env:
+        Configuration: ${{ matrix.configuration }}
 
-    # Restore the application to populate the obj folder with RuntimeIdentifiers
-    - name: Restore the application
-      run: dotnet restore $env:Solution_Name
+    # Build the entire solution
+    - name: Build solution
+      run: msbuild $env:Solution_Name /p:Configuration=$env:Configuration
+      env:
+        Configuration: ${{ matrix.configuration }}
+
+    # Execute unit tests for the test project only
+    - name: Execute unit tests
+      run: dotnet test $env:Test_Project_Path --configuration $env:Configuration
       env:
         Configuration: ${{ matrix.configuration }}
 
@@ -91,7 +99,7 @@ jobs:
     - name: Decode the pfx
       run: |
         $pfx_cert_byte = [System.Convert]::FromBase64String("${{ secrets.Base64_Encoded_Pfx }}")
-        $certificatePath = Join-Path -Path $env:Wap_Project_Directory -ChildPath GitHubActionsWorkflow.pfx
+        $certificatePath = Join-Path -Path $env:Wap_Project_Directory -ChildPath "GitHubActionsWorkflow.pfx"
         [IO.File]::WriteAllBytes("$certificatePath", $pfx_cert_byte)
 
     # Create the app package by building and packaging the Windows Application Packaging project
@@ -103,9 +111,9 @@ jobs:
         Appx_Package_Build_Mode: StoreUpload
         Configuration: ${{ matrix.configuration }}
 
-    # Remove the pfx
+    # Remove the pfx file after signing
     - name: Remove the pfx
-      run: Remove-Item -path $env:Wap_Project_Directory\GitHubActionsWorkflow.pfx
+      run: Remove-Item -Path "$env:Wap_Project_Directory\GitHubActionsWorkflow.pfx"
 
     # Upload the MSIX package: https://github.com/marketplace/actions/upload-a-build-artifact
     - name: Upload build artifacts
