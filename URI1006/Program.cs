@@ -1,3 +1,4 @@
+#nullable disable
 ﻿using System; //funções básicas como Console.WriteLine()
 using System.Globalization; //garante que a vírgula decimal seja tratada como ponto, útil para dados no padrão americano.
 

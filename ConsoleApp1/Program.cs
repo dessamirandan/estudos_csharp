@@ -1,3 +1,4 @@
+#nullable disable
 ﻿using System; //
 using System.Globalization; //Console.WriteLine(x.ToString("F2", CultureInfo.InvariantCulture)); para selecionar casas apos a virgula
 
