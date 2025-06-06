@@ -1,6 +1,6 @@
 # Ignorar pastas de build
-bin/
-obj/
+**/bin/
+**/obj/
 
 # Ignorar configurações específicas do VS Code
 .vscode/
