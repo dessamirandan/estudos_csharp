@@ -1,0 +1,15 @@
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/URI1006/bin/Debug/net9.0/URI1006
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/URI1006/bin/Debug/net9.0/URI1006.deps.json
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/URI1006/bin/Debug/net9.0/URI1006.runtimeconfig.json
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/URI1006/bin/Debug/net9.0/URI1006.dll
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/URI1006/bin/Debug/net9.0/URI1006.pdb
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/URI1006/obj/Debug/net9.0/URI1006.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/URI1006/obj/Debug/net9.0/URI1006.AssemblyInfoInputs.cache
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/URI1006/obj/Debug/net9.0/URI1006.AssemblyInfo.cs
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/URI1006/obj/Debug/net9.0/URI1006.csproj.CoreCompileInputs.cache
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/URI1006/obj/Debug/net9.0/URI1006.sourcelink.json
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/URI1006/obj/Debug/net9.0/URI1006.dll
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/URI1006/obj/Debug/net9.0/refint/URI1006.dll
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/URI1006/obj/Debug/net9.0/URI1006.pdb
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/URI1006/obj/Debug/net9.0/URI1006.genruntimeconfig.cache
+/Users/andressamiranda/Documents/Meus_Projetos/estudos_csharp/URI1006/obj/Debug/net9.0/ref/URI1006.dll
