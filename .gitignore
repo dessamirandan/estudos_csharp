@@ -473,26 +473,3 @@ FodyWeavers.xsd
 
 **/bin/
 **/obj/
-
->>>>>>> Stashed changes
-*.AssemblyInfo.cs
-ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
-ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.AssemblyInfo.cs
-ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.AssemblyInfoInputs.cache
-Exercicio1/obj/Debug/net9.0/Exercicio1.AssemblyInfo.cs
-Exercicio1/obj/Debug/net9.0/Exercicio1.AssemblyInfoInputs.cache
-ExercicioPratico1/obj/Debug/net9.0/ExercicioPratico1.AssemblyInfo.cs
-ExercicioPratico1/obj/Debug/net9.0/ExercicioPratico1.AssemblyInfoInputs.cache
-ExercicioPratico1/obj/Debug/net9.0/ExercicioPratico1.AssemblyInfo.cs
-ExercicioPratico1/obj/Debug/net9.0/ExercicioPratico1.AssemblyInfoInputs.cache
-ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
-ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.AssemblyInfo.cs
-ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.AssemblyInfoInputs.cache
-estudos_csharp.sln
-ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
-ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
-ConsoleApp3/obj/Debug/net9.0/ConsoleApp3.AssemblyInfoInputs.cache
-Exercicio1/obj/Debug/net9.0/Exercicio1.AssemblyInfo.cs
-Exercicio1/obj/Debug/net9.0/Exercicio1.AssemblyInfoInputs.cache
-ExercicioPratico1/obj/Debug/net9.0/ExercicioPratico1.AssemblyInfo.cs
-ExercicioPratico1/obj/Debug/net9.0/ExercicioPratico1.AssemblyInfoInputs.cache
